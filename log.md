@@ -12,3 +12,9 @@
 [Github Markdown](https://guides.github.com/features/mastering-markdown/) - printed out the pdf cheat sheet to learn in during the day  
 [Starting with Jekyll - GitHub guide](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)  
 [Jekyll GitHub repo](https://github.com/jekyll/jekyll)
+
+## Day 1: July 20, 2020
+
+**Today's Progress**: Added some basic layouts for header, footer and page.
+
+**Thoughts:** Not super sexy but it's going further, yay! 😏
