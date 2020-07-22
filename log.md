@@ -21,10 +21,19 @@
 
 ## Day 2: July 21, 2020
 
-**Today's Progress**: Played with Liquid types and tags. I'm looking forward to use the life. 
+**Today's Progress**: Played with Liquid types and tags. I'm looking forward to use them live. 
 
 **Thoughts:** I guess it's time to work on the real site. 
 
 **Resources:**  
 [Liquid by jekyll](https://jekyllrb.com/docs/liquid)
 [Liquid](https://shopify.github.io/liquid/)
+
+## Day 3: July 22, 2020
+
+**Today's Progress**: Added an unDraw image for my 404 page.
+
+**Thoughts:** Started late today. 
+
+**Resources:**  
+[UnDraw](https://undraw.co/illustrations)
