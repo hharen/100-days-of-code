@@ -27,4 +27,4 @@
 
 **Resources:**  
 [Liquid by jekyll](https://jekyllrb.com/docs/liquid)
-[Liquid(https://shopify.github.io/liquid/)
+[Liquid](https://shopify.github.io/liquid/)
