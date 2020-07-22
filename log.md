@@ -18,3 +18,13 @@
 **Today's Progress**: Added some basic layouts for header, footer and page.
 
 **Thoughts:** Not super sexy but it's going further, yay! 😏
+
+### Day 3: July 21, 2020
+
+**Today's Progress**: Played with Liquid types and tags. I'm looking forward to use the life. 
+
+**Thoughts:** I guess it's time to work on the real site. 
+
+**Resources:**  
+[Liquid by jekyll](https://jekyllrb.com/docs/liquid)
+[Liquid(https://shopify.github.io/liquid/)
