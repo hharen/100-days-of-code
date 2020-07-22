@@ -2,7 +2,7 @@
 
 [//]: # (This may be the most platform independent comment)
 
-### Day 0: July 19, 2020
+## Day 0: July 19, 2020
 
 **Today's Progress**: Created a git repo for the new website, created a new project with jekyll new
 
@@ -19,7 +19,7 @@
 
 **Thoughts:** Not super sexy but it's going further, yay! 😏
 
-### Day 3: July 21, 2020
+## Day 2: July 21, 2020
 
 **Today's Progress**: Played with Liquid types and tags. I'm looking forward to use the life. 
 
