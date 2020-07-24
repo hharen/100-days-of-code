@@ -37,3 +37,12 @@
 
 **Resources:**  
 [UnDraw](https://undraw.co/illustrations)
+
+## Day 4: July 23, 2020
+
+**Today's Progress**: Startred with adding the content to the homepage. So it's time to recap the flexbox. 
+
+**Thoughts:** cmd + ctrl + down this is what I was searching for so long... moves the selected line down (up)
+
+**Resources:**  
+[Flexbox Froggy](http://flexboxfroggy.com/)
