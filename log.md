@@ -46,3 +46,15 @@
 
 **Resources:**  
 [Flexbox Froggy](http://flexboxfroggy.com/)
+
+## Day 5: July 24, 2020
+
+**Today's Progress**: I did the header part for the website in CodePen. 
+
+**Thoughts:**
+
+**Resources:**
+[Nice tutorial for creating a full screen hero image with buttons](https://medium.com/@woutervanderzee/creating-a-website-hero-module-with-flexbox-and-the-vh-unit-b39113aaceb2)
+
+**Link to work:**
+[CodePen with kitschy image](https://codepen.io/hhar/pen/xxZBWvM?editors=1100)
